@@ -1,10 +1,10 @@
-package de.hft-stuttgart;
+package de.hft.stuttgart;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
